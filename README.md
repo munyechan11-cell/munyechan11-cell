@@ -99,6 +99,3 @@ One poll per symbol broadcast to all clients, removing duplicate external API ca
 Handong Global University, 2026– · Vice President, IMC Technology Management Society
 
 **[LinkedIn](https://www.linkedin.com/in/munyechan11/)**
-
-**[LinkedIn](https://www.linkedin.com/in/munyechan11/)**
-## Hi there 👋
