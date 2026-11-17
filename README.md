@@ -7,7 +7,7 @@ I go to the site, count what is actually broken, build the smallest thing that s
 **The rule that repeats across everything below: AI drafts. Humans and servers confirm.**
 Every AI feature I ship has a fallback, and every irreversible action is decided by a server or a person, never by a model.
 
-**[LinkedIn](https://www.linkedin.com/in/munyechan11/)** · First-year undergraduate, Handong Global University · Vice President, IMC Technology Management Society
+**[Portfolio site](https://munyechan.vercel.app)** · **[LinkedIn](https://www.linkedin.com/in/munyechan11/)** · **[Notion](https://artistic-barber-402.notion.site/)** · First-year undergraduate, Handong Global University · Vice President, IMC Technology Management Society
 
 ---
 
@@ -20,7 +20,7 @@ Every AI feature I ship has a fallback, and every irreversible action is decided
 | **118,000+ views** | The same contest's Instagram, which I ran alone for four weeks (22 posts, 256 followers) |
 | **2,656 tests** | Event-driven quant trading engine, solo. Paper mode only (2,654 passing on a clean re-run, Sep 2026) |
 | **937 tests** | Evidence-based credentialing system, all passing |
-| **2nd place, twice** | Local AI Makers Lab final demo day (2nd of 12 teams) and Glocal Business AI Capstone. Both are team awards |
+| **Two team awards** | Local AI Makers Lab final demo day (2nd of 12 teams) and Glocal Business AI Capstone (2nd place). Separate events; both are team awards |
 
 ---
 
